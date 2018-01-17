@@ -26,12 +26,17 @@ import { ButtonModule } from 'primeng/components/button/button';
 import { InputTextModule } from 'primeng/components/inputtext/inputtext';
 import { ContextMenuModule } from 'primeng/components/contextmenu/contextmenu';
 import { UserComponent } from './components/pages/user/user.component';
+import {DoctorComponent} from './components/pages/doctor/doctor.component';
+import {PatientComponent} from './components/pages/patient/patient.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
-    UserComponent
+    UserComponent,
+    DoctorComponent,
+    PatientComponent
   ],
   imports: [
     AppRoutingModule,

@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "xxcfubeg",
-    "password": "gQPxg-IoszCT9Ca2HlWDf4z97H5cloRr",
-    "database": "xxcfubeg",
-    "host": "horton.elephantsql.com",
+    "username": "mospycfk",
+    "password": "X-WgbUFEsz3glTP8CvMHDFdSZGQ0niKX",
+    "database": "mospycfk",
+    "host": "baasu.db.elephantsql.com",
     "port": 5432,
     "dialect": "postgres"
   },
